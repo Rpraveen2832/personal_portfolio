@@ -48,7 +48,7 @@ function Projects() {
               isBlog={false}
               title={<strong>Job Portal Web Application Using MERN Stack</strong>}
               description="This Job Portal Web Application is a comprehensive platform designed to bridge the gap between job seekers and employers. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), the application provides a robust solution for job recruitment and management. It features three main modules: Admin, Employer, and Job Seeker, each with distinct functionalities to streamline the job search and recruitment processes."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/SubramaniyanGS/JobPortal-Web-Application"
               demoLink="https://aristostechjobportal.vercel.app/"              
             />
           </Col>
